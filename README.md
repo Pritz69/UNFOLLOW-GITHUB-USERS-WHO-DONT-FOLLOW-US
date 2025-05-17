@@ -2,7 +2,7 @@
 A Python script which you can run on your device terminal to unfollow those users who does not follow you back on GITHUB.
 
 # HOW TO RUN THE SCRIPT ?
-
+Just follow the steps and then run the Task.py file uploaded above.
 # Install PyGithub:
 Command : pip install PyGithub
 # Generate a Personal Access Token: 
