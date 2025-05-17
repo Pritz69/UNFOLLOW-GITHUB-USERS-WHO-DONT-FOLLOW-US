@@ -1,7 +1,7 @@
 # UNFOLLOW GITHUB USERS WHO DONT FOLLOW US
-A Python script which you can run on your device terminal to unfollow those users who does not follow you back on GITHUB.
+A Python script which you can run on your device terminal to unfollow those users who does not follow you back on GITHUB. Try it out !! Collaborators welcome !
 
-# HOW TO RUN THE SCRIPT ?
+## HOW TO RUN THE SCRIPT ?
 Just follow the steps and then run the Task.py file uploaded above.
 ## Install PyGithub:
 Command : pip install PyGithub
